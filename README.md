@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-- 👯 I’m looking to collaborate on Zid/Daftra integration
-- 💬 Ask me about Javascript
-- 📫 How to reach me: alhilali@hotmail.com
-
 <!--
 **alhilali/alhilali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
