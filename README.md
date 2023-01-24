@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saud</h1>
-<h3 align="center">Hi! I'm a Tech Enthusiast from Riyadh, Saudi Arabia. <br>wLet's build an awesome app together.</h3>
+<h3 align="center">Hi! I'm a Tech Enthusiast from Riyadh, Saudi Arabia. <br>Let's build an awesome app together.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
